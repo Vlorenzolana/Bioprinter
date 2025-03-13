@@ -77,7 +77,7 @@ If using a MacBook Pro (2017) with macOS Sierra 10.9 or older, additional driver
 Special thanks to the contributors:
 
 - **Vanessa Lorenzo** - Concept & Design Engineering
-- **Javier Roel** - IT Assitance Media Lab Prado Madrid
+- **Javier Villaroel** - IT Assitance Media Lab Prado Madrid
 - **Richard Timsi** - Troubleshooting Hackuarium Lausanne
 - **Daniel Petrosemoli** - Makerspace Technician Media Lab Prado Madrid
 
